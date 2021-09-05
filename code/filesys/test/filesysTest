@@ -1,0 +1,3 @@
+#!/bin/bash
+./nachos-filesys -f
+./nachos-filesys -bigtest
